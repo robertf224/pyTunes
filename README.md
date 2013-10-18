@@ -11,7 +11,7 @@ Mac OSx only
 #### From PyPi:
 
 ``` bash
-pip install pyTunes
+pip install tunes
 ```
 
 #### From Source:
